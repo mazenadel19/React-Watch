@@ -1,0 +1,13 @@
+.wrapper {
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: black;
+}
+
+.timeStyle {
+	font-family: time;
+	font-size: 20vw;
+	color: white;
+}
